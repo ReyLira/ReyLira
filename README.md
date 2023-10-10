@@ -11,7 +11,7 @@ ____
 - 🌱 Aprendiendo todo sobre el **Open Source**
 - 💬 Hazme ping sobre **java**, **Spring**, **HTML**, **Angular**, **CSS**, **AppScript**
 ____
-##### GitHub Streak
+##### GitHub Streak 🏆
 
 </br>
 
@@ -20,7 +20,7 @@ ____
 </p>
 
 ____
-##### Skills
+##### Skills 🧐
 - **Lenguaje de Programación**:
   
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -70,7 +70,7 @@ ____
     ![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
     ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter).
 _____
-##### Habilidades
+##### Habilidades 🦾
 <div>
     <p style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReyLira&show_icons=true&locale=en&layout=compact" alt="ReyLira" style="width: 400px;"/>
