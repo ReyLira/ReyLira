@@ -81,7 +81,7 @@ _____
 </div>
 
 _____
-## Redes Sociales 📱
+#### Redes Sociales 📱
 <i>Sígueme por la web:</i><br>
 <a href="mailto:rey.gonzalesdelriego@vallegrande.edu.pe" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
