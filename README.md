@@ -2,6 +2,7 @@
 
 #### Tengo 19 años, soy un apasionado por la programación.
 
+____
 ##### BIO
 
 - 🏢 Soy de nacionalidad **Peruana 🇵🇪**
@@ -9,7 +10,7 @@
 - 🌍 Soy principalmente activo dentro de la **comunidad de Java.**
 - 🌱 Aprendiendo todo sobre el **Open Source**
 - 💬 Hazme ping sobre **java**, **Spring**, **HTML**, **Angular**, **CSS**, **AppScript**
-
+____
 ##### GitHub Streak
 
 </br>
@@ -17,7 +18,7 @@
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=ReyLira" alt="ReyLira" />
 </p>
-
+____
 - **Lenguaje de Programación**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +30,7 @@
 
 
 <br>   
-    
+____
 - **Desarrollo front-end**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +43,7 @@
    
 
 <br>
-
+____
 - **Base de Datos**:
 
     ![PosgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,7 +58,7 @@
     ![SonarCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
     
 <br>
-
+____
 - **Software y herramientas**:
 
     ![Figman](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -73,6 +74,7 @@
     ![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
     ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter).
 
+____
 <div>
     <p style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReyLira&show_icons=true&locale=en&layout=compact" alt="ReyLira" style="width: 400px;"/>
