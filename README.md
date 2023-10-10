@@ -18,8 +18,9 @@ ____
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=ReyLira" alt="ReyLira" />
 </p>
-_____
 
+____
+##### Dominios
 - **Lenguaje de Programación**:
   
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
