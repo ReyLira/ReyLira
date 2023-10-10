@@ -18,9 +18,9 @@ ____
 <p align="left"> 
     <img src="https://github-profile-trophy.vercel.app/?username=ReyLira" alt="ReyLira" />
 </p>
-____
+
 - **Lenguaje de Programación**:
-    
+    _____
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,9 +30,9 @@ ____
 
 
 <br>   
-____
-- **Desarrollo front-end**:
 
+- **Desarrollo front-end**:
+_____
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,9 +43,9 @@ ____
    
 
 <br>
-____
-- **Base de Datos**:
 
+- **Base de Datos**:
+  _____
     ![PosgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
     ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
     ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,9 +58,9 @@ ____
     ![SonarCloud](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
     
 <br>
-____
-- **Software y herramientas**:
 
+- **Software y herramientas**:
+  _____
     ![Figman](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -74,7 +74,8 @@ ____
     ![Apache Netbeans](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
     ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter).
 
-____
+_____
+##### Habilidades
 <div>
     <p style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ReyLira&show_icons=true&locale=en&layout=compact" alt="ReyLira" style="width: 400px;"/>
