@@ -79,3 +79,20 @@ _____
         <img src="https://github-readme-stats.vercel.app/api?username=ReyLira&show_icons=true&locale=en" alt="ReyLira" style="width: 400px;"/>
     </p>
 </div>
+
+_____
+## Redes Sociales 📱
+<i>Sígueme por la web:</i><br>
+<a href="mailto:rey.gonzalesdelriego@vallegrande.edu.pe" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://gitlab.com/rey.gonzalesdelriego" target="_blank">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank">
+</a>
+<a href="https://github.com/ReyLira" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/rey-andr%C3%A9-dario-gonzalez-del-riego-lira-7340b1221/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+</div>
