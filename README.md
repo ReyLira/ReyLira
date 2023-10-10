@@ -12,7 +12,14 @@
 
 ##### GitHub Streak
 
-- **Lenguaje de Programación**:
+</br>
+
+<p align="left"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=ReyLira" alt="ReyLira" />
+</p>
+
+<div>
+    - **Lenguaje de Programación**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,11 +28,7 @@
     ![Node-js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Sprint](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-</br>
-
-<p align="left"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=ReyLira" alt="ReyLira" />
-</p>
+</div>
 
 <div>
     <p style="text-align: left;">
