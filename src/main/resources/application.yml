@@ -1,0 +1,25 @@
+server:
+  port: 8080
+
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: admin22
+    pool:
+      enabled: true
+      initial-size: 5
+      max-size: 20
+
+
+logging:
+  level:
+    org:
+      springframework:
+        r2dbc: DEBUG
+
+
+#jwt
+jwt:
+  secret : secretsecretsecretsecretsecretsecretsecretsecretsecret
+  expiration: 3600
