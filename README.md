@@ -77,7 +77,9 @@ _____
     <p style="text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api?username=ReyLira&show_icons=true&locale=en" alt="ReyLira" style="width: 400px;"/>
     </p>
-    ![GitHub streak stats](https://streak-stats.demolab.com/?user=ReyLira)  
+    <p style="text-align: left;">
+        <img src="https://streak-stats.demolab.com/?user=ReyLira" alt="ReyLira" style="width: 400px;"/>
+    </p>
 </div>
 
 _____
